@@ -27,22 +27,22 @@
     <modules>
         <module>datasource-plugins-api</module>
         <module>datasource-all</module>
-        <module>datasource-kafka</module>
+        <!--<module>datasource-kafka</module>
         <module>datasource-elasticsearch</module>
         <module>datasource-jdbc-hive</module>
         <module>datasource-hive</module>
         <module>datasource-starrocks</module>
-        <module>datasource-jdbc-clickhouse</module>
+        <module>datasource-jdbc-clickhouse</module>-->
         <module>datasource-jdbc-mysql</module>
-        <module>datasource-jdbc-oracle</module>
+        <!--<module>datasource-jdbc-oracle</module>
         <module>datasource-jdbc-postgresql</module>
         <module>datasource-jdbc-redshift</module>
         <module>datasource-jdbc-sqlserver</module>
-        <module>datasource-jdbc-starrocks</module>
+        <module>datasource-jdbc-starrocks</module>-->
         <module>datasource-mysql-cdc</module>
-        <module>datasource-s3</module>
+        <!--<module>datasource-s3</module>
         <module>datasource-sqlserver-cdc</module>
-        <module>datasource-jdbc-tidb</module>
+        <module>datasource-jdbc-tidb</module>-->
     </modules>
 
 
